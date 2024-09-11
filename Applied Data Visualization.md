@@ -123,4 +123,40 @@ Color != wavelength, but rather a combination of wavelength and energy.
 
    
 
-   
+### Data semantic
+semantic: real world meaning
+data types: link, item, attribute, position, grids
+
++ Item & attribute
+
+  attribute: observed property of items
+  
++ links
+
++ positions
+
+  spatial data → location in 2D or 3D
+  
++ Grids
+  sampling strategy for continuous data, like weather stations in the U.S.
+  
+### Dataset type
++ table
++ network/graph
+  + node link graph
+  + matrix
+  + treemap
++ collections
+  how we group items.
+
+  + sets
+  + lists
+  + clusters
++ Fields
++ Geometry
++ nominal, ordinal, interval, or ratio 
+
+
+
+
+
