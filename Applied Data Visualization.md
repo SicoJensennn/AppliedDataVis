@@ -160,3 +160,10 @@ data types: link, item, attribute, position, grids
 
 
 
+## Scales
+
+1. Start from 0?
+2. Log scale?
+3. normalize
+4. slopegraph
+5. 
