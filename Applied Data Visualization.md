@@ -123,7 +123,10 @@ Color != wavelength, but rather a combination of wavelength and energy.
 
    
 
+## Lec 02
+
 ### Data semantic
+
 semantic: real world meaning
 data types: link, item, attribute, position, grids
 
@@ -158,12 +161,38 @@ data types: link, item, attribute, position, grids
 
 
 
+## Lec 05 
 
+09/23
 
-## Scales
+### Parallel coordinates
 
-1. Start from 0?
-2. Log scale?
-3. normalize
-4. slopegraph
-5. 
+1. Show primarily relationships between adjacent axis
+2. limited scalability
+3. interaction is crucial
+4. https://www.data-to-viz.com/graph/parallel.html to see the details. Vertical lines stands for variable, and y stands for values.
+
+Like 
+$$
+Y = a + bx_{0} + cx_{1} + ...
+$$
+
+### Data Reduction
+
+We can do the reduction from 2 aspects: sampling and filtering.
+
+### Parallel Sets
+
+To better handle categorical data.
+
+It is frequently used in the paper review.
+
+![Parallel Sets](https://datavizcatalogue.com/methods/images/anatomy/parallel_sets.png)
+
+### Bertifier Visualization
+
+It is a new visualization method to see the tabular data. We can sort the data and get the bar charts.
+
+### Pixel Based Display
+
+It is good for homogeneous data.
